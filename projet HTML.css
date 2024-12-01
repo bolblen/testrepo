@@ -1,0 +1,22 @@
+header{text-align: center;margin: 60px;}
+nav{padding: 20px;margin: 30px ;background-color: #0000005b;color: rgb(5, 66, 128);}
+h1{color: #6b8bbe;margin: 30px;}
+h2{margin: 20px;}
+h3{color: rgb(0, 34, 252);margin-left:40px;}
+a1:hover{font-style:'Times New Roman', Times, serif;color: aqua;}
+p{color: black;font-family:'Times New Roman', Times, serif;margin-left:40px;font-size: large;}
+footer{padding: 20px;background-color: #0000005b;margin: 20px;color: #f706f7;}
+label{margin: 60px;}
+input{margin-left: 60px;}
+#Submit{margin-left: 60px;}
+select{margin-left: 60px;}
+section{display:block;}
+ol{margin-left: 40px;font-size: large;}
+.Work{color: #f706f7;}
+.About{color:brown;}
+.Home{color:rgb(31, 239, 239);}
+.Resume{color: #f27e11f0;}
+.Contact{color:lawngreen;}
+#Resume{margin-left: 40px;}
+#Home{font-size: larger;}
+button{background-color:palegreen;}

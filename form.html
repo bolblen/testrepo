@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>form validation</title>
+        <link rel="stylesheet" href="validation.css">
+    </head>
+    <body>
+    <form id="test">
+        <label>Name</label>
+        <input id="name" type="text" name="name" required>
+        <p id="nameError" class="error"></p>
+        <label>Phone number</label>
+        <input id="phone" type="text" name="phone" required>
+        <p id="phoneError" class="error"></p>
+        <label>password</label>
+        <input id="pwd" type="password" name="password" required>
+        <p id="pwdError" class="error"></p>
+        <button type="submit">submit</button>
+    </form>
+    <script src="formvalidation.js"></script>
+</body>
+</html>
